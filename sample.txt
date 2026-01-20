@@ -1,0 +1,1 @@
+Sample file is created using command "type nul > sample.txt" and i am editing it using " "notepad sample.txt " command.

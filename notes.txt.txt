@@ -2,3 +2,4 @@ Learning Git from scratch
 This line is added on Github
 this line is added from feature-practice
 conflict line added from feature-practice
+This line will be reverted using git revert.
